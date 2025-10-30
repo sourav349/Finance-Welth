@@ -140,17 +140,18 @@ This project integrates **Next.js 15**, **React 19**, **Supabase**, **Clerk**, *
 ---
 
 ### 🧩 1️⃣ Clone the Repository
-
-git clone https://github.com/sourav349/Finance-Welth.git
+```bash git clone https://github.com/sourav349/Finance-Welth.git
 cd Finance-Welth
 ---
 
 ### ⚙️ 2️⃣ Install Dependencies
+```bash
 npm install
 # or
 yarn install
 --- 
 ### 🔐 3️⃣ Setup Environment Variables
+```bash
 Create a .env.local file in the root directory and add:
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
@@ -161,6 +162,7 @@ SUPABASE_URL=
 SUPABASE_ANON_KEY=
 ---
 ###🧠 4️⃣ Run the Development Server
+```bash
 npm run dev
 # or
 yarn dev
