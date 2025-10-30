@@ -132,16 +132,25 @@ This project is ideal for your **developer portfolio**, showcasing your ability 
 
 ---
 
-## 🧑‍💻 Getting Started
+## 🚀 Getting Started with Finance-Welth
 
-### 1️⃣ Clone the Repository
+Build and run your **AI-powered Finance Platform** in just a few steps!  
+This project integrates **Next.js 15**, **React 19**, **Supabase**, **Clerk**, **Inngest**, and **Arcjet** to deliver a secure, automated, and intelligent financial experience. 💰
+
+---
+
+### 🧩 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-finance-platform.git
-cd ai-finance-platform
+git clone https://github.com/sourav349/Finance-Welth.git
+cd Finance-Welth
+
+⚙️ 2️⃣ Install Dependencies
 npm install
 # or
 yarn install
 
+🔐 3️⃣ Setup Environment Variables
+Create a .env.local file in the root directory and add:
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 DATABASE_URL=
@@ -149,3 +158,20 @@ INNGEST_API_KEY=
 ARCJET_API_KEY=
 SUPABASE_URL=
 SUPABASE_ANON_KEY=
+
+🧠 4️⃣ Run the Development Server
+npm run dev
+# or
+yarn dev
+
+🖼️ Preview
+<div align="center"> <img width="850" alt="Dashboard Screenshot 1" src="https://github.com/user-attachments/assets/a152f4f2-e9d9-4e4e-8ab1-42d13ee9edec" /> <br/><br/> <img width="850" alt="Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/44beebc3-eb45-439b-b0ba-9fc771368a1c" /> </div>
+
+🏁 Conclusion
+
+This AI-driven finance app combines modern web technologies with real-time automation to provide users with a smarter, more secure financial experience.
+You’ll find everything from authentication and dashboards to AI-based insights, background jobs, and automated reports — all in one platform. 🌟
+
+💬 Tip: Deploy easily on Vercel
+ for instant hosting!
+⭐ Star this repo if you like the project!
