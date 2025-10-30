@@ -140,16 +140,17 @@ This project integrates **Next.js 15**, **React 19**, **Supabase**, **Clerk**, *
 ---
 
 ### 🧩 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/sourav349/Finance-Welth.git
 cd Finance-Welth
+---
 
-⚙️ 2️⃣ Install Dependencies
+### ⚙️ 2️⃣ Install Dependencies
 npm install
 # or
 yarn install
-
-🔐 3️⃣ Setup Environment Variables
+--- 
+### 🔐 3️⃣ Setup Environment Variables
 Create a .env.local file in the root directory and add:
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
@@ -158,14 +159,18 @@ INNGEST_API_KEY=
 ARCJET_API_KEY=
 SUPABASE_URL=
 SUPABASE_ANON_KEY=
-
-🧠 4️⃣ Run the Development Server
+---
+###🧠 4️⃣ Run the Development Server
 npm run dev
 # or
 yarn dev
+---
+### 🖼️ Preview
+<div align="center"> <img width="850" alt="Dashboard Screenshot 1" src="https://github.com/user-attachments/assets/a152f4f2-e9d9-4e4e-8ab1-42d13ee9edec" /> <br/><br/> <img width="850" alt="Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/44beebc3-eb45-439b-b0ba-9fc771368a1c" />
 
-🖼️ Preview
-<div align="center"> <img width="850" alt="Dashboard Screenshot 1" src="https://github.com/user-attachments/assets/a152f4f2-e9d9-4e4e-8ab1-42d13ee9edec" /> <br/><br/> <img width="850" alt="Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/44beebc3-eb45-439b-b0ba-9fc771368a1c" /> </div>
+<img width="1902" height="892" alt="Screenshot 2025-10-30 220109" src="https://github.com/user-attachments/assets/0ffdca23-7b8b-48d3-ad59-f42858843b68" />
+<img width="1918" height="889" alt="Screenshot 2025-10-30 211301" src="https://github.com/user-attachments/assets/e0fc996e-39d9-4729-bbb6-efe9022a47b9" />
+ </div>
 
 🏁 Conclusion
 
