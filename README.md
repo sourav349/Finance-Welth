@@ -167,13 +167,10 @@ yarn dev
 ---
 ### 🖼️ Preview
 <div align="center"> <img width="850" alt="Dashboard Screenshot 1" src="https://github.com/user-attachments/assets/a152f4f2-e9d9-4e4e-8ab1-42d13ee9edec" /> <br/><br/> <img width="850" alt="Dashboard Screenshot 2" src="https://github.com/user-attachments/assets/44beebc3-eb45-439b-b0ba-9fc771368a1c" />
-
-<img width="1902" height="892" alt="Screenshot 2025-10-30 220109" src="https://github.com/user-attachments/assets/0ffdca23-7b8b-48d3-ad59-f42858843b68" />
-<img width="1918" height="889" alt="Screenshot 2025-10-30 211301" src="https://github.com/user-attachments/assets/e0fc996e-39d9-4729-bbb6-efe9022a47b9" />
- </div>
+</div>
+---
 
 🏁 Conclusion
-
 This AI-driven finance app combines modern web technologies with real-time automation to provide users with a smarter, more secure financial experience.
 You’ll find everything from authentication and dashboards to AI-based insights, background jobs, and automated reports — all in one platform. 🌟
 
